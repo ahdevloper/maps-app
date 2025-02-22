@@ -1,0 +1,30 @@
+@import 'bootstrap/dist/css/bootstrap.rtl.min.css';
+
+#map {
+  height: 500px;
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.search-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.location-list {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.location-item {
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.location-item:hover {
+  background-color: #f8f9fa;
+}

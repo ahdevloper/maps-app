@@ -27,7 +27,7 @@
 
 1. **استنساخ المستودع:**
    ```bash
-   git clone https://github.com/alhmyryahmd85/maps-app.git
+   git clone https://github.com/ahdevloper/maps-app.git
    cd maps-app
    ```
 
